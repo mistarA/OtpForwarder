@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OtpForwarder</string>
+    <string name="action_settings">Settings</string>
+    <string name="india_country_code">+91</string>
+    <string name="service_provider_name">Service Provider Name</string>
+    <string name="destination_contact">Receiver Number</string>
+
+</resources>
